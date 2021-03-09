@@ -24,6 +24,12 @@ page_sections:
     tag: tag
     copy: copy copy copy
     image: "/uploads/glass-showerscreens-gold-coast.jpg"
+- template: img-left
+  img-left:
+  - image: "/uploads/glass-showerscreens-gold-coast.jpg"
+    heading: ytest
+    tag: tdiyosdciuy
+    copy: dgbfdgsbfgb
 
 ---
 # Forestry CMS Blocks Field Demo
