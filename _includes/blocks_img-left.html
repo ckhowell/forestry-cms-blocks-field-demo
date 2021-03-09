@@ -1,0 +1,27 @@
+<section>
+    <div class="container aos-init aos-animate" data-aos="fade-up">
+        <div class="row align-items-center justify-content-around">
+
+            <div class="col-md-5 col-xl-6 mb-0 mb-md-0">
+                {% for img-left in block.img-left %}
+                <img src="{{img-left.image}}" class="rounded shadow-3d">
+                {% endfor %}
+            </div>
+
+            <div class="col-md-7 col-xl-6">
+                <div class="row justify-content-center">
+                    <div class="col-xl-8 col-lg-10">
+                        {% for img-left in block.img-left %}
+                        <span class="badge badge-primary">{{img-left.tag}}</span>
+                        <div class="my-3">
+                            <span class="h1">{{img-left.heading}}</span>
+                        </div>
+                        <p class="lead">{{img-left.copy}}</p>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
