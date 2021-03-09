@@ -1,5 +1,5 @@
 ---
-title: Title goes here
+title: Frameless
 page_section:
 - template: 2-col-img-left
   headline: Headline
