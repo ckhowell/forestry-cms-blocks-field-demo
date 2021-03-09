@@ -5,7 +5,7 @@ fields:
 - name: img-left
   type: field_group_list
   fields:
-  - name: img-left
+  - name: image
     type: file
     config:
       maxSize: 64
