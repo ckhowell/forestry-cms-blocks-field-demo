@@ -1,4 +1,36 @@
 ---
 label: img-left
 hide_body: true
-fields: []
+fields:
+- name: img-left
+  type: field_group_list
+  fields:
+  - name: img
+    type: file
+    config:
+      maxSize: 64
+    label: Image Left
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: tag
+    type: text
+    config:
+      required: false
+    label: Tag
+  - name: copy
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Copy
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: img-left
