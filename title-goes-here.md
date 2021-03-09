@@ -6,6 +6,5 @@ page_section:
   tag: Tags
   copy: Invite your team members and set user roles for better collaboration on your
     sites
-published: false
 
 ---
