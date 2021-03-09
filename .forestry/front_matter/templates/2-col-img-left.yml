@@ -1,0 +1,23 @@
+---
+label: 2-col-img-left
+hide_body: true
+fields:
+- name: headline
+  type: text
+  config:
+    required: false
+  label: Headline
+- name: tag
+  type: text
+  config:
+    required: false
+  label: Tag
+- name: copy
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Copy
