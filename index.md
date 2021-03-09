@@ -23,6 +23,7 @@ page_sections:
     heading: Heading
     tag: tag
     copy: copy copy copy
+    image: "/uploads/glass-showerscreens-gold-coast.jpg"
 
 ---
 # Forestry CMS Blocks Field Demo
