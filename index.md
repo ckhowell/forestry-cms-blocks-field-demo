@@ -19,15 +19,8 @@ page_sections:
     Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.
 - template: img-left
   img-left:
-  - img: "/uploads/glass-showerscreens-gold-coast.jpg"
-    heading: Heading
-    tag: tag
-    copy: copy copy copy
-    image: "/uploads/glass-showerscreens-gold-coast.jpg"
-- template: img-left
-  img-left:
   - image: "/uploads/glass-showerscreens-gold-coast.jpg"
-    heading: ytest
+    heading: Teso
     tag: tdiyosdciuy
     copy: dgbfdgsbfgb
 
