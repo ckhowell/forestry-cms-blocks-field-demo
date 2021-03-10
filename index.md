@@ -1,5 +1,5 @@
 ---
-title: Forestry CMS Blocks Field Demo
+title: Forestry CMS Blocks Field Dick
 description: This repository demonstrates how to use Forestry's Blocks Field to create
   rich lays.
 page_sections:
